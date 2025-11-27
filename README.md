@@ -1,4 +1,4 @@
-# MH Case: Reactive Strength Index (RSI) Analysis
+# Reactive Strength Index (RSI) Analysis
 
 **Version:** 0.1.0  
 **Description:** Analysis of marker-based kinematics to compute Reactive Strength Index (RSI) for drop and reactive jumps.  
